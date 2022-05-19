@@ -1,0 +1,25 @@
+body{
+  /* color:white; */
+   font-family: "Arial";
+   /* background: url(https://media.gettyimages.com/photos/indian-passport-lying-on-indian-flag-picture-id1094329912?s=612x612);
+   background-repeat: no-repeat; */
+   box-shadow: 1px 3px 50px 5px green;
+   /* box-shadow: x-offset y-offset blur spread-radius */
+   /* box-shadow: inset 300px 300px green; */
+}
+
+.firstform{
+  /* text-shadow: 0px 0px 0.1px black; */
+  border-style:solid;
+  border:5px solid black;
+  /* font-color:white; */
+    background-color: rgb(134, 176, 135);
+    padding: 33px 33px;
+
+    /* background-color:; */
+}
+
+.Hover1:hover, .Hover2:hover
+{
+  background-color:rgb(134, 176, 135);
+}
